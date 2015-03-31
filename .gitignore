@@ -57,3 +57,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/Calc4Arduino/nbproject/private/
+/Calc4Arduino/build/
+/Calc4Arduino/dist/
